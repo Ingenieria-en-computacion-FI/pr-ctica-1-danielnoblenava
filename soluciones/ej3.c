@@ -21,5 +21,5 @@ int main(){
 	for (int i = 0; i < 3; i++)
 		printf("\nc[%d]: %p", i, &c[i]);
 	printf("\n");
-        return 0;
+    return 0;
 }
